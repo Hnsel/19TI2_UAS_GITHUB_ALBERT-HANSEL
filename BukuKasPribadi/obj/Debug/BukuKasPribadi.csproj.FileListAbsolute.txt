@@ -1,0 +1,17 @@
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\bin\Debug\BukuKasPribadi.exe.config
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\bin\Debug\BukuKasPribadi.exe
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.csprojAssemblyReference.cache
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.UI.FormKeuangan.resources
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.FormLogin.resources
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.UI.FormMain.resources
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.FormPemasukkan.resources
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.Properties.Resources.resources
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.UI.FormPengeluaran.resources
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.UI.FormPiutang.resources
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.UI.FormUtang.resources
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.csproj.GenerateResource.cache
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.csproj.CoreCompileInputs.cache
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.exe
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.pdb
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\bin\Debug\BukuKasPribadi.pdb
+D:\Pengembangan Piranti Lunak\BukuKasPribadi\obj\Debug\BukuKasPribadi.UI.FormAbout.resources

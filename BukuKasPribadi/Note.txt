@@ -1,0 +1,6 @@
+Project ini dirancang oleh :
+- Albert Hansel (03082190034)
+- Edric Justin (03082190002)
+
+Catatan penggunaan software Buku Kas Pribadi :
+- Untuk mengkoneksi software ke database silahkan masuk ke masing masing form dan mencari format file .cs dan mengatur lokasi penyimpanan database .accdb sesuai dengan lokasi database .accdb pada perangkat anda saat ini. 
